@@ -43,5 +43,5 @@ The Kibana dashboard requires the `timelion` plugin. You may install the plugin 
 
 1. Open Kibana and go to Settings > Indices. Type in `ncedc-earthquakes` as the index name and create the index pattern.
 2. Go to Objects tab and click on Import, and select `ncedc-earthquakes-dashboard.json` by the file chooser.
-3. Go to Dashboard and click on `Earthqueke` from the list of the dashboards.
+3. Go to Dashboard and click on `Earthquake` from the list of the dashboards.
 
